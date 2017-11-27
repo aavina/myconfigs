@@ -20,6 +20,8 @@ set hlsearch
 " Regex
 set magic
 
+" Fix backspace
+set backspace=2
 
 ""
 " Tabs an space
